@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+holidays
+scikit-learn
+xgboost
+prophet
